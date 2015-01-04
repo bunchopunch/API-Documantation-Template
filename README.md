@@ -8,5 +8,6 @@ To get see how this template is laid out, take a look at the [API Documantation 
 All of that said, if you're new to documenting APIs, have a large API, or are looking for a long term solution, be aware that something like this may not be the ideal. Investigating projects such as [Swagger](http://swagger.io/) and [I/O Docs.](http://www.mashery.com/product/io-docs) may be prove to be worthwhile.
 
 #Cloning
-You can clone a copy of this wiki by using the following.
+If you'd like to clone a copy of this wiki, it can be done with the following command.
+
 `git clone https://github.com/bunchopunch/API-Documantation-Template.wiki.git`
